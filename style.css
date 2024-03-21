@@ -97,14 +97,18 @@ body {
     border-top: 0;
 }
 .nineteen{
+    
     border-top:  2px solid rgb(235, 165, 73);
     border-right:  2px solid rgb(235, 165, 73);
 }
 .twenty{
+
+
     border-left:  2px solid rgb(235, 165, 73);
     border-bottom:  2px solid rgb(235, 165, 73);
 }
 .twentyone{
+
     border-right: 2px solid rgb(235, 165, 73);
     border-bottom: 2px solid rgb(235, 165, 73);
 }
